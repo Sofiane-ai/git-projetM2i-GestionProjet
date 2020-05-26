@@ -1,7 +1,6 @@
 node_modules
 .nycrc
 .babelrc
-.babelrc
 .nycrc
 package.json
 package-lock.json
