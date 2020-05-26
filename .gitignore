@@ -2,3 +2,7 @@ node_modules
 package.json
 .nycrc
 .babelrc
+.babelrc
+.nycrc
+package.json
+package-lock.json
